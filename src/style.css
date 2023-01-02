@@ -45,13 +45,21 @@ h1 {
 }
 
 .card {
-  padding: 2em;
+  padding: 1em 2em;
+}
+
+input {
+  border-radius: 4px;
+  padding: 0.5rem 0.5rem;
+  margin: 0.5em 0.25em;
+  border: none;
 }
 
 button {
   border-radius: 8px;
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
+  margin: 0.25em 0;
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
